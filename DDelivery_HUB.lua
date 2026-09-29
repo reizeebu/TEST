@@ -1,4 +1,4 @@
-local scriptSource = [[
+
 
 -- ====================================================================
 -- SERVIÇOS E VARIÁVEIS INICIAIS
