@@ -1,6 +1,3 @@
--- Carregar o script no executador
--- loadstring(game:HttpGet("https://raw.githubusercontent.com/reizeebu/TEST/refs/heads/main/DDelivery_HUB.lua"))()
-
 local scriptSource = [[
 
 -- ====================================================================
